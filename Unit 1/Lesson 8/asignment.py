@@ -1,0 +1,51 @@
+name = input("What is your name?")
+print(f"your name is {name} ")
+
+print("Game #1:")
+name2 = input("What is your opponents name?")
+print(f"Opponents name: {name2}")
+points1 = int(input("How many points did you get?"))
+points2 = int(input("How many points did your opponent get?"))
+print(f"Your Points: {points1}")
+print(f"Opponents Points: {points2}")
+
+print("Game #2:")
+name3 = input("What is your opponents name?")
+print(f"Opponents name: {name3}")
+points3 = int(input("How many points did you get?"))
+points4 = int(input("How many points did your opponent get?"))
+print(f"Your Points: {points3}")
+print(f"Opponents Points: {points4}")
+
+print("Game #3:")
+name4 = input("What is your opponents name?")
+print(f"Opponents name: {name4}")
+points5 = int(input("How many points did you get?"))
+points6 = int(input("How many points did your opponent get?"))
+print(f"Your Points: {points5}")
+print(f"Opponents Points: {points6}")
+
+print("Game #4:")
+name5 = input("What is your opponents name?")
+print(f"Opponents name: {name5}")
+points7 = int(input("How many points did you get?"))
+points8 = int(input("How many points did your opponent get?"))
+print(f"Your Points: {points7}")
+print(f"Opponents Points: {points8}")
+
+print("Game #5:")
+name6 = input("What is your opponents name?")
+print(f"Opponents name: {name6}")
+points9 = int(input("How many points did you get?"))
+points10 = int(input("How many points did your opponent get?"))
+print(f"Your Points: {points9}")
+print(f"Opponents Points: {points10}")
+
+print("Dots and Bots Tracker")
+print(f"Players Name: {name}")
+
+print(f"{'Opponent':<20}{'Your Points':>15}{'Opponent Points':>25}{'Box %':>15}")
+print("==============================================================================")
+print(f"{name2:<27}")
+
+

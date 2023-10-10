@@ -64,3 +64,4 @@ print(f" Number of Restrooms per classroom: {restrooms_input/classroom_input}")
 print(f"Number of Gyms per classroom: {gym_input/classroom_input} ")
 print(f"Number of change rooms per class room: {Change_rooms_input/classroom_input}")
 print(f"Number of common areas per class room: {classroom_input/classroom_input}")
+
